@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Smart Notes",
+  "description": "A modern, AI-powered note-taking application featuring smart summarization, title generation, and organized categories for seamless productivity across devices.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
